@@ -56,3 +56,8 @@ console.log(newArray);
 let students=['Neville', 'Seamus', 'Dean', 'Parvati'];
 students.splice(1,2);
 console.log(students);
+
+//QUESTION TWELVE
+let phrase=' Mischief Managed ';
+let answer=phrase.trim().toLowerCase().concat('-Harry');
+console.log(answer);
