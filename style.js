@@ -45,3 +45,9 @@ let spells=['Alohomora','Lumos','Nox'];
 spells.unshift('Accio');
 spells.shift();
 console.log(spells);
+
+
+//QUESTION TEN
+let professors=['Dumbledore','McGonagall','Snape','Hagrid'];
+let newArray= professors.slice(1,3);
+console.log(newArray);
