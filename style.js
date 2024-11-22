@@ -61,3 +61,8 @@ console.log(students);
 let phrase=' Mischief Managed ';
 let answer=phrase.trim().toLowerCase().concat('-Harry');
 console.log(answer);
+
+//QUESTION THIRTEEN 
+let wizards=['Harry','Hermione','Ron'];
+wizards.push('Luna','Draco');
+console.log(wizards);
