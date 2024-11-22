@@ -29,3 +29,7 @@ console.log(quote.slice(11,16));
 let firstName2='Ron';
 let lastName2='Weasley';
 console.log(firstName2.concat(lastName2));
+
+//QUESTION SEVEN
+let sentence='Draco is a good wizard';
+console.log(sentence.replace('good','bad'));
