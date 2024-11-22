@@ -69,5 +69,6 @@ console.log(wizards);
 
 //QUESTION FOURTEEN
 let message=['Welcome to Hogwarts School of Witchcraft and Wizardry'];
-let newMessage=message.slice(11,19).concat('castle');
+var newMessage=message.slice(11,19)
+var newMessage= newMessage.concat('castle');
 console.log(newMessage);
