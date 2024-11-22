@@ -20,3 +20,7 @@ console.log(characterName.toUpperCase());
 //QUESTION FOUR
 let spell='Expelliarmus';
 console.log(spell.trim());
+
+//QUESTION FIVE
+let quote='I solemnly swear that I am up to no good';
+console.log(quote.slice(11,16));
