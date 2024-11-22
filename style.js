@@ -24,3 +24,8 @@ console.log(spell.trim());
 //QUESTION FIVE
 let quote='I solemnly swear that I am up to no good';
 console.log(quote.slice(11,16));
+
+//QUESTION SIX
+let firstName2='Ron';
+let lastName2='Weasley';
+console.log(firstName2.concat(lastName2));
