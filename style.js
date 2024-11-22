@@ -11,3 +11,8 @@ for (i=0; i<=4; i++)
 let firstName='Harry';
 let house='Gryffindor';
 console.log (`Welcome, ${firstName} of ${house} !`);
+
+//QUESTION THREE
+let characterName='Hermione';
+console.log(characterName.toLowerCase());
+console.log(characterName.toUpperCase());
