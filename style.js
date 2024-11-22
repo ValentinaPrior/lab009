@@ -33,3 +33,9 @@ console.log(firstName2.concat(lastName2));
 //QUESTION SEVEN
 let sentence='Draco is a good wizard';
 console.log(sentence.replace('good','bad'));
+
+//QUESTION EIGHT
+let houses=['Gryffindor','Hufflepuff','Ravenclaw'];
+houses.push('Slytherin');
+houses.pop();
+console.log(houses);
