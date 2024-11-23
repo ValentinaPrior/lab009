@@ -68,7 +68,7 @@ wizards.push('Luna','Draco');
 console.log(wizards);
 
 //QUESTION FOURTEEN
-let message=['Welcome to Hogwarts School of Witchcraft and Wizardry'];
-var newMessage=message.slice(11,19)
-var newMessage= newMessage.concat('castle');
-console.log(newMessage);
+let message='Welcome to Hogwarts School of Witchcraft and Wizardry';
+var newMessage1=message.slice(11,19);
+var newMessage2= newMessage1.concat(' castle');
+console.log(newMessage2);
